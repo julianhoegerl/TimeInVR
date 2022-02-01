@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Testing/test_TPLeftMWDRight_TPStart.unity
+- path: Assets/Scenes/New/new_MWDLeftTPRight_TPStart.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
