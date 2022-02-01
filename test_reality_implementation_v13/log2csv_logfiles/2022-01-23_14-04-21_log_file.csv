@@ -1,0 +1,6 @@
+ID;Bedingung;Block;BlockStart;TaskType;Trial;Intervall;TrialStart;Press 1;Press 2;TimeToStart;Estimation
+ID;Bedingung;Block;BlockStart;TaskType;Trial;Intervall;TrialStart;Press 1;Press 2;TimeToStart;Estimation
+1;RE;1;2022-01-23_14-04-21;TP;1;2;8,591442;8,591436;9,552982;6,16819;0,96
+1;RE;1;2022-01-23_14-04-21;TP;1;2;8,591442;8,591436;10,33527;6,16819;1,74
+1;RE;1;2022-01-23_14-04-21;TP;1;1;13,3384;8,591436;13,37984;-4,75;4,79
+1;RE;1;2022-01-23_14-04-21;TP;1;1;13,3384;8,591436;14,22855;-4,75;5,64
