@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Scenes/VRbio/New mit angepasster H\xF6he/New/VRbio_MWDLeftTPRight_TPStart_h\xF6he_angepasst.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

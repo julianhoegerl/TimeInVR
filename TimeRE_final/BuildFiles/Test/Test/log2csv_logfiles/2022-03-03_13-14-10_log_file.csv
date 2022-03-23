@@ -1,0 +1,3 @@
+ID;Bedingung;Block;BlockStart;TaskType;Trial;Intervall;TrialStart;Press 1;Press 2;TimeToStart;Estimation
+Test;RE;4;2022-03-03_13-14-10;MWD;1;2;6,670418;33,57662;40,56489;26,91;6,99
+Test;RE;4;2022-03-03_13-14-10;TP;1;8;44,58628;59,53184;61,01527;14,95;1,48
